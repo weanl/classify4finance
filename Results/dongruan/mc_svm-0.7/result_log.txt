@@ -1,0 +1,6 @@
+Finished
+total training accuracy #0.849979879276
+total testing accuracy #0.738842592593
+total case accuracy #0.820909090909
+Start Time #2020-02-22 17:06:36.602386
+total time consumed #1:02:23.645251
